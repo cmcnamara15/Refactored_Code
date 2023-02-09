@@ -15,6 +15,11 @@ There are no steps necessary to install this page.
 
 This code provides basic HTML and style to a fictional page that advertises as a online brand management company. The navigation text in the header brings you to separate sections of the page which describes different aspects of what the company is supposed to do.
 
+URL to github https://github.com/cmcnamara15/week1-challenge
+URL to deployed page https://cmcnamara15.github.io/week1-challenge/
+
+![alt text](assets/images/wk1chlng.png)
+![alt text](assets/images/wk1chlng2.png)
 
 ## Credits
 The source code was given to us so our collaborators was the UT coding bootcamp. 
